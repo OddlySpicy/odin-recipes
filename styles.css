@@ -1,0 +1,36 @@
+.title {
+    color: rgb(240, 170, 40);
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 60px;
+}
+
+.img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.link {
+    text-align: left;
+    font-family: 'Times New Roman', sans-serif;
+    font-size: 22px;
+}
+
+.link.home {
+    text-align: center;
+    font-size: 25px;
+}
+
+p, li {
+    font-size: 20px;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: left;
+}
+
+h3 {
+    font-size: 27px;
+    font-family: 'Times New Roman', sans-serif;
+    text-align: left;
+}
